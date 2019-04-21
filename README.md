@@ -1,10 +1,10 @@
-<div style="text-align:center">
+<p align="center">
 <img width="320" height="320" src="http://clipart-library.com/images/kTKoxpgBc.png" alt="Twitter logo"/>
-</div>
+</p>
 
-## Practicing with the Twitter :bird:
+## Practicing with the #Twitter :bird:
 
-Twitter is a beautiful and clean-design social media, easy to apply `flex` concepts. Therefore, I have built a Twitter clone to practice the `flex` concepts that I have learned in #Rocketseat's course.
+[**Twitter**](https://twitter.com) is a beautiful and clean-design social media, easy to apply [`flex`](https://developer.mozilla.org/en-US/docs/Web/CSS/flex) concepts. Therefore, I have built a Twitter clone to practice the [`flex`](https://developer.mozilla.org/en-US/docs/Web/CSS/flex) concepts that I have learned in [#Rocketseat](https://rocketseat.com.br/)'s course.
 
 A simple screenshot of what I'm saying about
 
