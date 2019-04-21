@@ -8,8 +8,8 @@
 
 **A simple screenshot of what I'm saying about**
 
-![Simple screenshot about twitter clone](https://i.ibb.co/JHTbm28/Screenshot-from-2019-04-21-00-24-34.png)
+![Simple screenshot about twitter clone](https://i.ibb.co/VLM1861/Screenshot-from-2019-04-21-16-57-02.png)
 
-![Simple screenshot about twitter clone](https://i.ibb.co/B3M0x8Z/Screenshot-from-2019-04-21-00-24-39.png)
+![Simple screenshot about twitter clone](https://i.ibb.co/0MNxjDb/Screenshot-from-2019-04-21-16-57-06.png)
 
 You can also check it on live clicking [_here_](https://twitter-web-clone.herokuapp.com/)
