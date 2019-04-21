@@ -277,6 +277,12 @@ div.wrapper-content aside.profile .followers ul li {
   margin: 0 5px 5px 0;
 }
 
+div.wrapper-content aside.profile .followers ul li img {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+}
+
 div.wrapper-content aside.profile .images ul {
   list-style: none;
   display: flex;
@@ -292,6 +298,12 @@ div.wrapper-content aside.profile .images ul li {
   border-radius: 8px;
   flex: 1 0 auto;
   margin: 0 5px 5px 0;
+}
+
+div.wrapper-content aside.profile .images ul li img {
+  height: 80px;
+  width: 80px;
+  border-radius: 8px;
 }
 
 div.wrapper-content .timeline {
